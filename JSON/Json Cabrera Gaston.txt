@@ -1,0 +1,40 @@
+{
+  "Nombre": "Gaston",
+  "Apellido": "Cabrera",
+  "Nº Legajo": 67051,
+  "Carreras Hechas": "Ing. Sistema de Información",
+  "Materias Rendidas incluye electivas" : 29,
+  "Materias": [
+        {"Nº Materia":1, "Nombre": "Analisis Matematico 1", "Nota": 8, "Fecha": 20161205121212},
+        {"Nº Materia":2, "Nombre": "Algebra", "Nota": 7, "Fecha": 20161227121212},
+        {"Nº Materia":3, "Nombre": "Fisica 1", "Nota": 6, "Fecha": 20140605121212},
+        {"Nº Materia":4, "Nombre": "Matematica Discreta", "Nota": 7, "Fecha": 20140605121212},
+        {"Nº Materia":5, "Nombre": "Sistema y Organización", "Nota": 9, "Fecha": 20150605121212},
+        {"Nº Materia":6, "Nombre": "Algoritmo y Estructura de Datos", "Nota": 9, "Fecha": 20150605121212},
+        {"Nº Materia":7, "Nombre": "Arquitectura de Computadoras", "Nota": 4, "Fecha": 20140605121212},
+        {"Nº Materia":8, "Nombre": "Inglés 1", "Nota": 7, "Fecha": 20140605121212},
+        {"Nº Materia":9, "Nombre": "Ingenieria y Sociedad", "Nota": 7, "Fecha": 20140605121212},
+        {"Nº Materia":10, "Nombre": "Quimica", "Nota": 9, "Fecha": 20160605121212},
+        {"Nº Materia":11, "Nombre": "Analisis Matematico 2", "Nota": 9, "Fecha": 20160605121212},
+        {"Nº Materia":12, "Nombre": "Fisica 2", "Nota": 6, "Fecha": 20170605121212},
+        {"Nº Materia":13, "Nombre": "Analisis de Sistema", "Nota": 8, "Fecha": 
+20160605121212},
+        {"Nº Materia":14, "Nombre": "Sintaxis y Semántica de los Lenguajes", "Nota": 6, "Fecha": 20160605121212},
+        {"Nº Materia":15, "Nombre": "Paradigma de Programación", "Nota": 7, "Fecha": 20170605121212},
+        {"Nº Materia":16, "Nombre": "Sistema Operativo", "Nota": 4, "Fecha": 20150605121212},
+        {"Nº Materia":17, "Nombre": "Probabilidad y Estadística", "Nota": 7, "Fecha": 20180605121212},
+        {"Nº Materia":18, "Nombre": "Sistema de Representacion", "Nota": 8, "Fecha": 20150605121212},
+        {"Nº Materia":19, "Nombre": "Diseño de Sistema", "Nota": 6, "Fecha": 20190605121212},
+        {"Nº Materia":20, "Nombre": "Matematica Superior", "Nota": 7, "Fecha": 20190605121212},
+        {"Nº Materia":21, "Nombre": "Gestión de Datos", "Nota": 6, "Fecha": 20170605121212},
+        {"Nº Materia":22, "Nombre": "Economía", "Nota": 9, "Fecha": 20170605121212},
+        {"Nº Materia":23, "Nombre": "Inglés 2", "Nota": 6, "Fecha": 20150605121212},
+        {"Nº Materia":24, "Nombre": "Teoria de Control", "Nota": 8, "Fecha": 20180605121212},
+        {"Nº Materia":25, "Nombre": "Legislacion", "Nota": 7, "Fecha": 20170605121212},
+        {"Nº Materia":26, "Nombre": "Tecnología de Software Base", "Nota": 7, "Fecha": 20180605121212},
+        {"Nº Materia":27, "Nombre": "Programación de Aplicaciones Visuales 1", "Nota": 9, "Fecha": 20170605121212},
+        {"Nº Materia":28, "Nombre": "Programación de Aplicaciones Visuales 2", "Nota": 8, "Fecha": 20180605121212},
+        {"Nº Materia":28, "Nombre": "Gestión de la Mejora de Proceso", "Nota": 8, "Fecha": 20170605121212}
+        
+    ]
+}  
